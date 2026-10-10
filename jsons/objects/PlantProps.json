@@ -1,0 +1,22 @@
+{
+    "objects": [
+        {
+            "objclass": "PlantProperties",
+            "aliases": [
+                "phatbeet"
+            ],
+            "objdata": {
+                "CannotBePushedByFootballMech": true
+            }
+        },
+        {
+            "objclass": "PlantProperties",
+            "aliases": [
+                "phatbeet_rhythm"
+            ],
+            "objdata": {
+                "CannotBePushedByFootballMech": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+  "objects": [
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "tutorial_imp"
+      ],
+      "objdata": {
+        "Toughness": 95
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "modern_superfanimp"
+      ],
+      "objdata": {
+        "Toughness": 95
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "sportzball_imp"
+      ],
+      "objdata": {
+        "Toughness": 95
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "egypt_imp"
+      ],
+      "objdata": {
+        "Toughness": 95
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "pirate_imp"
+      ],
+      "objdata": {
+        "Toughness": 95
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "future_imp"
+      ],
+      "objdata": {
+        "Toughness": 95
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "dark_imp_dragon"
+      ],
+      "objdata": {
+        "Toughness": 95
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "dark_imp"
+      ],
+      "objdata": {
+        "Toughness": 95
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "beach_imp"
+      ],
+      "objdata": {
+        "Toughness": 95
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "iceage_imp"
+      ],
+      "objdata": {
+        "Toughness": 95
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "lostcity_impporter"
+      ],
+      "objdata": {
+        "Toughness": 95
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "lostcity_imp"
+      ],
+      "objdata": {
+        "Toughness": 95
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "kongfu_rocket_imp"
+      ],
+      "objdata": {
+        "Toughness": 95
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "monk_imp"
+      ],
+      "objdata": {
+        "Toughness": 95
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "abbot_imp"
+      ],
+      "objdata": {
+        "Toughness": 95
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "eighties_imp"
+      ],
+      "objdata": {
+        "Toughness": 95
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "dino_imp"
+      ],
+      "objdata": {
+        "Toughness": 95
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "sky_imp"
+      ],
+      "objdata": {
+        "Toughness": 95
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "lostcity_bug"
+      ],
+      "objdata": {
+        "BugToughness": 90
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "lostcity_bug_armor1"
+      ],
+      "objdata": {
+        "BugToughness": 90
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "lostcity_bug_armor2"
+      ],
+      "objdata": {
+        "BugToughness": 90
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "lostcity_bug_armor4"
+      ],
+      "objdata": {
+        "BugToughness": 90
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "summer_bug"
+      ],
+      "objdata": {
+        "BugToughness": 90
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "summer_bug_armor1"
+      ],
+      "objdata": {
+        "BugToughness": 90
+      }
+    },
+    {
+      "objclass": "ZombieProperties",
+      "aliases": [
+        "summer_bug_armor2"
+      ],
+      "objdata": {
+        "BugToughness": 90
+      }
+    }
+  ]
+}

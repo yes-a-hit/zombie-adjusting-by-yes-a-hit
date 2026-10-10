@@ -1,0 +1,21 @@
+# 依赖与构建产物
+node_modules/
+dist/
+build/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地调试与临时文件
+*.log
+*.zip
+_local/
+.pvzge-*-backup/
+
+# 自用素材：仅本地使用、版权归属未确认的第三方音频，绝不入库。
+# tools/pack.ps1 -Personal 会取这里打包；公版打包会忽略它。
+private/

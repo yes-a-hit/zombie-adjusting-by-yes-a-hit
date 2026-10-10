@@ -1,0 +1,9 @@
+# 默认按文本处理并统一为 LF；二进制的必须显式声明，否则 Git 会试图做行尾转换
+* text=auto eol=lf
+
+*.ogg   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.ico   binary
+*.zip   binary
