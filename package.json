@@ -1,0 +1,13 @@
+{
+  "name": "zombie-fun-adjust",
+  "version": "1.2.15",
+  "private": true,
+  "description": "PvZ2 Gardendless (GP-Next) mod: Zombie Fun Adjust",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/run.mjs",
+    "pack": "powershell -NoProfile -ExecutionPolicy Bypass -File tools/pack.ps1"
+  },
+  "author": "YG",
+  "license": "MIT"
+}
